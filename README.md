@@ -1,3 +1,21 @@
+# What will find in this project?
+
+Here you will find the code for a web application developed in React where you can find some features, such as:
+
+- scrollbar
+- click, drag and slide carousel
+- image import
+- tailwind
+- tailwind-scrollbar-hide
+- react-icons
+
+References
+unsplash.com
+https://www.youtube.com/watch?v=x4bom6Udk_4
+https://www.youtube.com/watch?v=C9EWifQ5xqA
+
+Developed with love by Emesson Cavalcante <3
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
