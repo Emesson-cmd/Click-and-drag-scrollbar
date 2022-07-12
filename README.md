@@ -10,9 +10,9 @@ Here you will find the code for a web application developed in React where you c
 - react-icons
 
 References
-unsplash.com
-https://www.youtube.com/watch?v=x4bom6Udk_4
-https://www.youtube.com/watch?v=C9EWifQ5xqA
+- unsplash.com
+- https://www.youtube.com/watch?v=x4bom6Udk_4
+- https://www.youtube.com/watch?v=C9EWifQ5xqA
 
 Developed with love by Emesson Cavalcante <3
 
